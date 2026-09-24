@@ -1,0 +1,54 @@
+# ============================================
+
+# Smart Retail Sales & Customer Intelligence
+
+# Python Dependencies
+
+# ============================================
+
+# Data Manipulation & Numerical Computing
+
+pandas
+numpy
+
+# Data Visualization
+
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+
+scikit-learn
+
+# Jupyter / Notebook Environment
+
+jupyter
+ipykernel
+notebook
+
+# Excel / Dataset Handling
+
+openpyxl
+xlrd
+
+# Database Connectivity
+
+sqlalchemy
+pymysql
+
+# Streamlit Application
+
+streamlit
+
+# Model & Data Serialization
+
+joblib
+
+# Statistical Analysis
+
+scipy
+
+# Configuration & Environment Variables
+
+python-dotenv

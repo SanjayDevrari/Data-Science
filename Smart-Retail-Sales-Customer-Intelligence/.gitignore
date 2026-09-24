@@ -1,0 +1,25 @@
+# Large datasets
+data/raw/
+data/interim/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Machine Learning models
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
